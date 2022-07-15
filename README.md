@@ -17,5 +17,5 @@ $python ytmp4.py
 
 ```
 
-<img src="https://github.com/CYBER-STARK/YOUTUBE-VIDEO-DOWNLOADER/blob/main/Image.jpg" width="200%" hight="200%">
+<img src="https://raw.githubusercontent.com/CYBER-STARK/YOUTUBE-VIDEO-DOWNLOADER/main/Screenshot_20220715-155115.png" width="200%" hight="200%">
 <p align="center">
