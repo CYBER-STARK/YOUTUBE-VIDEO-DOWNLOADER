@@ -7,3 +7,15 @@
 DOWNLOAD YOUTUBE VIDEOS IN HD QUALITY
 THIS IS A TOOL FOR DOWNLOADING YOUTUBE VIDEOS
 IN HIGH QUALITY
+
+# HOW TO USE
+```bash
+$ git clone 
+
+$cd YOUTUBE-VIDEO-DOWNLOADER
+$python ytmp4.py
+
+```
+
+<img src="https://github.com/CYBER-STARK/YOUTUBE-VIDEO-DOWNLOADER/blob/main/Image.jpg" width="200%" hight="200%">
+<p align="center">
