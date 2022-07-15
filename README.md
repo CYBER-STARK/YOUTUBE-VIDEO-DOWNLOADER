@@ -10,7 +10,7 @@ IN HIGH QUALITY
 
 # HOW TO USE
 ```bash
-$ git clone 
+$ git clone https://github.com/CYBER-STARK/YOUTUBE-VIDEO-DOWNLOADER
 
 $ cd YOUTUBE-VIDEO-DOWNLOADER
 $ python ytmp4.py
